@@ -1,0 +1,5 @@
+text,label,cleaned_text,no_stopwords,lemmatized_text,label_encoded
+Natural Language Processing is amazing!,NLP,natural language processing is amazing,natural language processing amazing,natural language processing amazing,1
+I love learning AI and Machine Learning.,AI,i love learning ai and machine learning,love learning ai machine learning,love learning ai machine learning,0
+Text cleaning is an important NLP step.,NLP,text cleaning is an important nlp step,text cleaning important nlp step,text cleaning important nlp step,1
+AI applications are growing rapidly.,AI,ai applications are growing rapidly,ai applications growing rapidly,ai application growing rapidly,0
